@@ -1,4 +1,4 @@
-Substituindo PDO por Doctrine DBAL
+Gerando PDF no zf2 com DOMPDF
 =======================
 
 Sobre este exemplo
